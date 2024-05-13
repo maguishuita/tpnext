@@ -21,7 +21,7 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx"
-  ],
+, "components/AboutPage.jsx", "components/HomePage.jsx", "components/ProductPage.jsx", "pages/about.jsx", "pages/index.tsx", "pages/products.jsx"  ],
   "exclude": [
     "node_modules"
   ]
